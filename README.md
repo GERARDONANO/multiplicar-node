@@ -4,4 +4,8 @@
 
 Ejecutar el siguiente comando:
 
-'''npm install'''
+
+```
+npm install
+```
+
